@@ -247,6 +247,9 @@ exclude:
   - news.liquid
   - selected_papers.liquid
   - latest_posts.liquid
+  - _news/
+  - _posts/
+  
 
 keep_files:
   - CNAME
@@ -634,7 +637,7 @@ jsonresume:
   - publications
   - projects
   - volunteer
-  - awards
+  - awards # remove??? 
   - certificates
   - skills
   - languages
