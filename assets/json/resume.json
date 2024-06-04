@@ -50,12 +50,19 @@
       "institution": "University of Birmingham",
       "location": "Birmingham, United Kingdom",
       "url": "https://www.birmingham.ac.uk/",
-      "area": "Artificial Intelligence and Machine Learning", 
+      "area": "Artificial Intelligence and Machine Learning",
       "studyType": "Msc",
       "startDate": "2023-09-24",
       "endDate": "2024-09-24",
       "score": "x.xx/4.0",
-      "courses": ["Machine Learning", "Neural Computation", "Mathematical Foundation of AI and ML", "Natural Language Processing", "Computer Vision", "Current Topics in AI and ML"]
+      "courses": [
+        "Machine Learning",
+        "Neural Computation",
+        "Mathematical Foundation of AI and ML",
+        "Natural Language Processing",
+        "Computer Vision",
+        "Current Topics in AI and ML"
+      ]
     }
   ],
   "awards": [
