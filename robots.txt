@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
 Sitemap: https://ankithsavio.github.io/sitemap.xml
