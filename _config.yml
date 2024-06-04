@@ -243,6 +243,7 @@ exclude:
   - profiles.md
   - repository.md
   - dropdown.md
+  - table_data.json
 
 keep_files:
   - CNAME
