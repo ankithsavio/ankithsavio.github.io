@@ -4,6 +4,7 @@
     "label": "Machine Learning Engineer",
     "image": "",
     "email": "ankithsavio@gmail.com",
+    "phone": "(912) 123-4567",
     "url": "https://ankithsavio.github.io/",
     "summary": "Climbing the gradient of life.",
     "location": {
@@ -25,6 +26,7 @@
     {
       "name": "Cyclops MedTech",
       "position": "Intern",
+      "url": "https://example.com",
       "startDate": "2023-01-01",
       "endDate": "2023-04-01",
       "summary": "Did some cool stuff",
@@ -36,6 +38,7 @@
       "organization": "Indian NGO",
       "location": "Bangalore, India",
       "position": "Volunteer",
+      "url": "https://example.com",
       "startDate": "2023-04-01",
       "endDate": "2023-05-01",
       "summary": "Village society stuff",
@@ -53,6 +56,15 @@
       "endDate": "2024-09-24",
       "score": "x.xx/4.0",
       "courses": ["Machine Learning", "Neural Computation", "Mathematical Foundation of AI and ML", "Natural Language Processing", "Computer Vision", "Current Topics in AI and ML"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Nobel Prize in Physics",
+      "date": "1921-11-01",
+      "awarder": "Royal Swedish Academy of Sciences",
+      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
   "certificates": [
@@ -83,6 +95,15 @@
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-hashtag"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Zur Elektrody/namik bewegter Körper",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1905-06-30",
+      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
+      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
     }
   ],
   "skills": [
@@ -121,6 +142,18 @@
     {
       "name": "Reading",
       "icon": "fa-solid fa-tag"
+    }
+  ],
+  "references": [
+    {
+      "name": "Professor John Doe",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+    },
+    {
+      "name": "Professor John Doe",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [
