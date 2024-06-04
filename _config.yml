@@ -244,6 +244,9 @@ exclude:
   - repository.md
   - dropdown.md
   - table_data.json
+  - news.liquid
+  - selected_papers.liquid
+  - latest_posts.liquid
 
 keep_files:
   - CNAME
