@@ -243,10 +243,6 @@ exclude:
   - profiles.md
   - repository.md
   - dropdown.md
-  - announcement_1.md
-  - announcement_2.md
-  - announcement_3.md
-
 
 keep_files:
   - CNAME
