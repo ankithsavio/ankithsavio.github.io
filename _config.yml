@@ -249,7 +249,7 @@ exclude:
   - latest_posts.liquid
   - _news/
   - _posts/
-  
+
 
 keep_files:
   - CNAME
@@ -637,7 +637,7 @@ jsonresume:
   - publications
   - projects
   - volunteer
-  - awards # remove??? 
+  - awards 
   - certificates
   - skills
   - languages
