@@ -166,12 +166,12 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 # external_sources:
-  # - name: medium.com
-  #   rss_url: 
-  # - name: Google Blog
-  #   posts:
-  #     - url: 
-  #       published_date: 
+# - name: medium.com
+#   rss_url:
+# - name: Google Blog
+#   posts:
+#     - url:
+#       published_date:
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -314,8 +314,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 # scholar:
-#   last_name: 
-#   first_name: 
+#   last_name:
+#   first_name:
 
 #   style: apa
 #   locale: en
@@ -642,3 +642,34 @@ jsonresume:
   - languages
   - interests
   - references
+---
+invoice: 34843
+date: 2001-01-23
+bill-to: &id001
+  given: Chris
+  family: Dumars
+  address:
+    lines: |
+      458 Walkman Dr.
+      Suite #292
+    city: Royal Oak
+    state: MI
+    postal: 48046
+ship-to: *id001
+product:
+  - sku: BL394D
+    quantity: 4
+    description: Basketball
+    price: 450.00
+
+  - sku: BL4438H
+    quantity: 1
+    description: Super Hoop
+    price: 2392.00
+
+tax: 251.42
+total: 4443.52
+comments: >
+  Late afternoon is best.
+  Backup contact is Nancy
+  Billsmer @ 338-4338.
