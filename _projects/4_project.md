@@ -1,15 +1,18 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Brain MRI Segmentation
+description: 
 img:
 importance: 3
-category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Segmenting Brain MRI scan by utilizing image processing techniques. I have used a combination of boundary-based and region-based segmentation methods to identify five distinct tissue layers within a T1-weighted Brain MRI Image. There are several ways to tackle this problem and the following is just one such method. The following solution follows two approaches that considers both 2D slices of the MRI scan and the whole 3D volume of the MRI scan. 
+
+# What will happen if i include a header here a ll of a sudden
+## a smaller header
+### a even smaller header
+* bullet points ?
+[possible link-google](www.google.com)
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
