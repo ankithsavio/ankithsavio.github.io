@@ -6,7 +6,7 @@ img:
 importance: 3
 ---
 
-Segmenting Brain MRI scan by utilizing image processing techniques. I have used a combination of boundary-based and region-based segmentation methods to identify five distinct tissue layers within a T1-weighted Brain MRI Image. There are several ways to tackle this problem and the following is just one such method. The following solution follows two approaches that considers both 2D slices of the MRI scan and the whole 3D volume of the MRI scan. 
+Segmenting Brain MRI scan by utilizing image processing techniques. Used combination of boundary-based and region-based segmentation methods to identify five distinct tissue layers within a T1-weighted Brain MRI Image. There are two approaches that considers both 2D slices of the and the whole 3D volume of the MRI scan. 
 
 # What will happen if i include a header here a ll of a sudden
 ## a smaller header
@@ -25,13 +25,10 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/train_data.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/test_data.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
