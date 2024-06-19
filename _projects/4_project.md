@@ -15,7 +15,7 @@ Segmenting Brain MRI scan by utilizing image processing techniques. Used combina
 - different kind of bullet point
 * bullet
     - cild bullet point
-    
+
 [possible link-google](www.google.com)
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
@@ -36,15 +36,15 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    On the left, we have a slice of the MRI scan. Right, we have the pre-segmented image of the same slice.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/brain.gif" title="tTe Segmentation Process" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    The results of the applications of various transformations.
 </div>
 
 You can also put regular text between your rows of images.
