@@ -6,17 +6,8 @@ img:
 importance: 3
 ---
 
-Segmenting Brain MRI scan by utilizing image processing techniques. Used combination of boundary-based and region-based segmentation methods to identify five distinct tissue layers within a T1-weighted Brain MRI Image. There are two approaches that considers both 2D slices of the and the whole 3D volume of the MRI scan. 
+Segmenting Brain MRI scan by utilizing image processing techniques. Used combination of boundary-based and region-based segmentation methods to identify five distinct tissue layers within a T1-weighted Brain MRI Image. There are two approaches that considers both 2D slices and the whole 3D volume of the MRI scan. 
 
-# What will happen if i include a header here a ll of a sudden
-## a smaller header
-### a even smaller header
-* bullet points ?
-- different kind of bullet point
-* bullet
-    - cild bullet point
-
-[possible link-google](www.google.com)
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
