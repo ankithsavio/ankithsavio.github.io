@@ -12,6 +12,10 @@ Segmenting Brain MRI scan by utilizing image processing techniques. Used combina
 ## a smaller header
 ### a even smaller header
 * bullet points ?
+- different kind of bullet point
+* bullet
+    - cild bullet point
+    
 [possible link-google](www.google.com)
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
