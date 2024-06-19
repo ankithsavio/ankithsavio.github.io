@@ -8,15 +8,7 @@ importance: 3
 
 Segmenting Brain MRI scan by utilizing image processing techniques. Used combination of boundary-based and region-based segmentation methods to identify five distinct tissue layers within a T1-weighted Brain MRI Image. There are two approaches that considers both 2D slices and the whole 3D volume of the MRI scan. 
 
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The project repository : [Brain-MRI-Segmentation](https://github.com/ankithsavio/Brain-MRI-Segmentation)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -38,38 +30,29 @@ To give your project a background in the portfolio page, just add the img tag to
     The results of the applications of various transformations.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+The code is made available for both the 2D and 3D approach. It is important to note that the solution is very deterministic to the data used and therefore cannot be used for any other data out-of-the-box. However, I believe it is still valuable to learn the techniques of applications of image processing techniques to acheive segmentation.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/result_table.png" title="Results" class="img-fluid rounded z-depth-1 mx-auto d-block" width = "1606" height = "182"%}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    The results for the various algorithms developed.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+The results emphasises the use of whole volume of MRI scan to speed up the process. The following code be used to manually check the results.
 
 {% raw %}
 
 ```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
+# the 2D algorithms expects a index for the 2D slice to be considered
+masks = segment2d(i)
+
+masks = segment2d_ex(i)
+
+# the 3D algorithm processes the whole 3D volume at once
+masks = segment3d()
 ```
 
 {% endraw %}
