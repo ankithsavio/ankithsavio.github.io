@@ -38,7 +38,7 @@ The code is made available for both the 2D and 3D approach. It is important to n
     </div>
 </div>
 <div class="caption">
-    The results for the various algorithms developed. Second column, we have Jaccard Score (JS). Third Column, we have Dice-Sørensen coefficient.
+    Results for the various algorithms developed. Second column, we have Jaccard Score (JS). Third Column, we have Dice-Sørensen coefficient (DSC).
 </div>
 
 The results emphasises the use of whole volume of MRI scan to speed up the process. The following code be used to manually check the results.
