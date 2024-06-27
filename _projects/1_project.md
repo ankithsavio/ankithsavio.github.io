@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Paper Recommendation System
-description: with background image
-img: assets/img/12.jpg
+title: Paper Recs
+description: 
+img:
 importance: 1
-category: fun
+category: 
 ---
 
 The Project aims to _automate_ _fetching_ _relevant_ _research papers_ to users on a timely basis.
