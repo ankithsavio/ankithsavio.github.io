@@ -17,8 +17,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Paragraph 1
-
-Paragraph 2
-
-Paragraph 3
+Currently working on my Masters Dissertation...
