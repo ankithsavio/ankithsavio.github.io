@@ -70,5 +70,5 @@ NAMESPACE_NAME : #Your desired namspace name for the collection in the Vector DB
 #### Why Automation
 
 <div>
-<iframe src="https://weedoo-research-paper-recommendation-system.hf.space" width="500" height="500" style="border:0;"></iframe>
+<iframe src="https://weedoo-research-paper-recommendation-system.hf.space/" width="500" height="500" style="border:0;"></iframe>
 </div>
