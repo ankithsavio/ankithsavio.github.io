@@ -25,7 +25,7 @@
   "education": [
     {
       "institution": "University of Birmingham",
-      "location": "Birmingham, United Kingdom",
+      "location": "Birmingham, UK",
       "url": "https://www.birmingham.ac.uk/",
       "area": "Artificial Intelligence and Machine Learning",
       "studyType": "Msc",
@@ -118,36 +118,36 @@
   "certificates": [
     {
       "name": "Oxford Machine Learning Summer School",
-      "date": "2024-07-30",
-      "issuer": "OxML",
+      "startDate": "2024-07-30",
+      "summary": "OxML",
       "url": "https://drive.google.com/file/d/1IkJuUGSM9eh6KxXuvinm0Jcf2aqqDTtp/",
       "icon": ""
     },
     {
       "name": "Mathematics for Machine Learning and Data Science",
-      "date": "2023-12-15",
-      "issuer": "Deeplearning.ai",
+      "startDate": "2023-12-15",
+      "summary": "Deeplearning.ai",
       "url": "https://www.coursera.org/account/accomplishments/specialization/8DGBLSG8S2RE",
       "icon": ""
     },
     {
       "name": "TensorFlow: Advanced Techniques Specialization",
-      "date": "2023-02-28",
-      "issuer": "Deeplearning.ai",
+      "startDate": "2023-02-28",
+      "summary": "Deeplearning.ai",
       "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/YRND8J9SWNEK",
       "icon": ""
     },
     {
       "name": "Deep Learning Specialization",
-      "date": "2022-07-12",
-      "issuer": "Deeplearning.ai",
+      "startDate": "2022-07-12",
+      "summary": "Deeplearning.ai",
       "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/XAZR3LVEYZBF",
       "icon": ""
     },
     {
       "name": "Machine Learning",
-      "date": "2022-04-09",
-      "issuer": "Deeplearning.ai",
+      "startDate": "2022-04-09",
+      "summary": "Deeplearning.ai",
       "url": "https://www.coursera.org/account/accomplishments/certificate/28M9XX6CCWQL",
       "icon": ""
     }
