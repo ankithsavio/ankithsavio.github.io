@@ -69,4 +69,4 @@ NAMESPACE_NAME : #Your desired namspace name for the collection in the Vector DB
 #### Why SciNCL
 #### Why Automation
 
-<gradio-app src="https://weedoo-research-paper-recommendation-system.hf.space/"></gradio-app>
+<iframe src="https://weedoo-research-paper-recommendation-system.hf.space" width="500" height="500" style="border:0;"></iframe>
