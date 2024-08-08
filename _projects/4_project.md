@@ -2,7 +2,7 @@
 layout: page
 title: Brain MRI Segmentation
 description: 
-img:
+img: /assets/img/brain-xray.jpg
 importance: 3
 ---
 

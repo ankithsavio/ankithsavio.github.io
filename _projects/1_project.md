@@ -2,7 +2,7 @@
 layout: page
 title: Paper Recommendation System
 description: 
-img:
+img: /assets/img/paper-recs.jpg
 importance: 1
 category: 
 ---
