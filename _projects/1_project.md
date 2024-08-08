@@ -68,3 +68,5 @@ NAMESPACE_NAME : #Your desired namspace name for the collection in the Vector DB
 #### Why Pinecone
 #### Why SciNCL
 #### Why Automation
+
+<gradio-app src="https://weedoo-research-paper-recommendation-system.hf.space/"></gradio-app>
